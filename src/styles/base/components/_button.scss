@@ -1,0 +1,47 @@
+.big-button
+{
+    background: $purple;
+    border: none;
+    border-bottom: .2em solid darken($color: $purple, $amount: 10%);
+    color:white;
+    font-weight: bold;
+    font-size: $l-size;
+    padding: 2.4rem 0;
+    margin-bottom: $s-size;
+    width: 100%;
+}
+
+@media (min-width:$desktopBreakPoint)
+{
+   .big-button
+   {
+    margin-bottom:$xl-size;
+   
+   }
+}
+
+.big-button:disabled
+{
+    opacity: 0.5;
+}
+
+.button
+{
+    background:$purple;
+    border:none;
+    border-bottom: .2em solid darken($color: $purple, $amount: 10%);
+    color:white;
+    font-weight: 500;
+    
+    padding: $s-size;
+}
+
+//BEM - block element__ modifier--
+
+.button--link
+{
+   background:none;
+   border:none;
+   color:wheat; 
+   padding:0; 
+}

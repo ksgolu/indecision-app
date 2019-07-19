@@ -1,10 +1,10 @@
 # click below link to visit app 
 https://satyam-indecision-app.herokuapp.com/
 
-# indecision-app
+# Indecision-app
 With this app. Put your life in the hands of a computer, manage your daily to-do work on this app and never forget anything important.
-The simple and clean  UI provide more inteaction with this app. It has features like random select option if you not sure where 
-to start app randomly select an option for you and all these without any sign-up or password
+The simple and clean UI provide more inteaction with this app. It has features like random select option if you not sure where 
+to start, app randomly select an option for you and all these without any kind of signup pain
 
 # Add a new to-do (notes)
 Its simple to add a new to-do. just click on input box,type and hit Add

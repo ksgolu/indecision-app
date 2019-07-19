@@ -17,6 +17,9 @@
     "eject": "react-scripts eject",
     "dev": "${workspace}\\src\\playground\\counter-example.js"
   },
+  "engines": {
+    "node": "10.15.0"
+  },
   "eslintConfig": {
     "extends": "react-app"
   },

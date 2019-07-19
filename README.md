@@ -1,3 +1,6 @@
+# click below link to visit app 
+https://satyam-indecision-app.herokuapp.com/
+
 # indecision-app
 With this app. Put your life in the hands of a computer, manage your daily to-do work on this app and never forget anything important.
 The simple and clean  UI provide more inteaction with this app. It has features like random select option if you not sure where 
